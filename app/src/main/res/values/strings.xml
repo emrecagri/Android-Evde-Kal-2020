@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Evde Kal 2020</string>
+    <string name="uygulama_basligi">2020 Yılı İçin Sokağa Çıkma\nDurumu Sorgulaması</string>
+    <string name="sorgulama_butonu">Sorgula</string>
+    <string name="dogum_yili_bilgilendirmesi">Doğum Yılınızı Yazınız...</string>
+    <string name="txt_hakkinda_aciklama">Bu uygulama aşağıdaki tablodaki verileri kullanarak yapılmıştır. Veriler zaman içerisinde değişiklik gösterebileceğinden bu uygulamadaki bilgiler kesin bilgi değildir.</string>
+    <string name="geri_don">Geri Dön</string>
+</resources>
